@@ -1,0 +1,55 @@
+h1,h2,p{
+    margin: 15px;
+}
+h1{
+    font-size: 111px;
+}
+body{
+    background-color: black;
+}
+header{
+    margin-top: 100px;
+    text-align: center;
+    color: rgb(240, 210, 39);
+}
+.header_img{
+    height: 500px;
+}
+section{
+    margin: 80px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+img.scroll{
+    height: 300px;
+}
+a{
+    height: 100px;
+}
+.section_inner{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding: 30px;
+    margin-bottom: 50px;
+}
+.section_img{
+    height: 400px;
+    width: 350px;
+    
+    
+}
+h2{
+    font-size: 30px;
+    font-weight: bold;
+    max-width: 300px;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+}
+.section_inner_text{
+    text-align: center;
+}
